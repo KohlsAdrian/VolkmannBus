@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "914506656943",
+    "firebase_url": "https://volkmannbus-48ee3.firebaseio.com",
+    "project_id": "volkmannbus-48ee3",
+    "storage_bucket": "volkmannbus-48ee3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914506656943:android:b8f68b7fe72d4b3d",
+        "android_client_info": {
+          "package_name": "br.com.adriankohls.volkmannbus2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914506656943-mivnllskgpae9bjf1egtoljh49i5n4dn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsVzG8XVjOnM7ba1nzSpw38w0U5rAPhtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914506656943-mivnllskgpae9bjf1egtoljh49i5n4dn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "914506656943-o8311ku7doajtpkk4u73jpcs2gmm3fin.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "br.pomerode.VolkmannBus"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
